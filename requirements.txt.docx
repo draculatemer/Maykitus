@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+python-multipart
+moviepy==1.0.3
+imageio-ffmpeg
